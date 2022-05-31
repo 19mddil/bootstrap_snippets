@@ -1,0 +1,29 @@
+.container {
+    border: 3px solid red;
+    padding: 10px;
+}
+
+.container-fluid {
+    border: 3px solid teal;
+    /*padding: 10px; container fluid won't take padding*/
+}
+
+.col-5 {
+    border: 3px solid red;
+}
+
+.col-7 {
+    border: 3px solid blue;
+}
+
+.col-12 {
+    border: 3px solid rosybrown;
+}
+
+.col-sm-12 {
+    border: 3px solid rosybrown;
+}
+
+.row {
+    border: 3px sodid tomato;
+}
